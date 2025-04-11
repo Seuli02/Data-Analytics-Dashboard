@@ -14,4 +14,5 @@ Developed an interactive HR Analytics Dashboard using Power BI to analyze and vi
 •	What is the average age and tenure of employees?
 •	Which department has the highest attrition rate?
 •	How does the attrition trend compare across different salary brackets?
+
 -Dashboard Interaction <a href="https://github.com/Seuli02/Data-Analytics-Dashboard/blob/main/Screenshot%202025-04-11%20205302.png">View Dashboard</a>
