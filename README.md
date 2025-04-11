@@ -2,7 +2,8 @@
 ## Project Objective
 Developed an interactive HR Analytics Dashboard using Power BI to analyze and visualize employee data, focusing on attrition trends and workforce distribution. The dashboard provided key HR insights like average salary, age distribution, attrition rates, and employee count by department, role, and education level. This project helped HR stakeholders make data-driven decisions for improving employee retention and organizational planning.
 ## Dataset used
-<a href="https://github.com/Seuli02/Data-Analytics-Dashboard/blob/main/HR_Analytics.csv">Dataset</a>
+<a href="https://github.com/Seuli02/Data-Analytics-Dashboard/blob/main/HR_Analytics.csv">Dataset</a></br>
+
 ## Questions (KPIs)
 •	What is the overall attrition rate in the organization?</br>
 •	Which age group has the highest attrition?</br>
@@ -22,7 +23,5 @@ Developed an interactive HR Analytics Dashboard using Power BI to analyze and vi
 •	Average Salary: ₹7.0K</br>
 •	Average Years at Company: 7.3
 
-
--Dashboard Interaction <a href="https://github.com/Seuli02/Data-Analytics-Dashboard/blob/main/Screenshot%202025-04-11%20205302.png">View Dashboard</a>
 # Dashboard: ![Screenshot 2025-04-11 205302](https://github.com/user-attachments/assets/8e724577-f725-4a10-888e-5dd68ce6bba5)
 
