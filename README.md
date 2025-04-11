@@ -15,7 +15,7 @@ Developed an interactive HR Analytics Dashboard using Power BI to analyze and vi
 •	Which department has the highest attrition rate?
 •	How does the attrition trend compare across different salary brackets?
 ## Project measures or insights
-•	Total Employees: 446
+•	Total Employees: 446</br>
 •	Total Attrition Count: 92
 •	Attrition Rate: 20.6%
 •	Average Age: 37
