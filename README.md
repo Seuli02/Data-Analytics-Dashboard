@@ -14,5 +14,13 @@ Developed an interactive HR Analytics Dashboard using Power BI to analyze and vi
 •	What is the average age and tenure of employees?
 •	Which department has the highest attrition rate?
 •	How does the attrition trend compare across different salary brackets?
+## Project measures or insights
+•	Total Employees: 446
+•	Total Attrition Count: 92
+•	Attrition Rate: 20.6%
+•	Average Age: 37
+•	Average Salary: ₹7.0K
+•	Average Years at Company: 7.3
+
 
 -Dashboard Interaction <a href="https://github.com/Seuli02/Data-Analytics-Dashboard/blob/main/Screenshot%202025-04-11%20205302.png">View Dashboard</a>
