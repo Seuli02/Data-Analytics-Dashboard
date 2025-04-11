@@ -30,5 +30,6 @@ Developed an interactive HR Analytics Dashboard using Power BI to analyze and vi
 •	Gender-wise attrition comparison
 
 
-# Dashboard: ![Screenshot 2025-04-11 205302](https://github.com/user-attachments/assets/8e724577-f725-4a10-888e-5dd68ce6bba5)
+# Dashboard: ![Screenshot 2025-04-11 215454](https://github.com/user-attachments/assets/49d9e4fa-3f6b-4b1d-a0f7-a0fcfdcb8520)
+
 
