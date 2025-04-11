@@ -24,5 +24,5 @@ Developed an interactive HR Analytics Dashboard using Power BI to analyze and vi
 
 
 -Dashboard Interaction <a href="https://github.com/Seuli02/Data-Analytics-Dashboard/blob/main/Screenshot%202025-04-11%20205302.png">View Dashboard</a>
--Dashboard: ![Screenshot 2025-04-11 205302](https://github.com/user-attachments/assets/8e724577-f725-4a10-888e-5dd68ce6bba5)
+# Dashboard: ![Screenshot 2025-04-11 205302](https://github.com/user-attachments/assets/8e724577-f725-4a10-888e-5dd68ce6bba5)
 
