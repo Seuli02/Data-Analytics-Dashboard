@@ -23,6 +23,12 @@ Developed an interactive HR Analytics Dashboard using Power BI to analyze and vi
 •	Average Age: 37</br>
 •	Average Salary: ₹7.0K</br>
 •	Average Years at Company: 7.3
+# Key insights include:
+•	Age groups and job roles most impacted by attrition
+•	Correlation between education level and employee retention
+•	Salary slabs with the highest resignation rates
+•	Gender-wise attrition comparison
+
 
 # Dashboard: ![Screenshot 2025-04-11 205302](https://github.com/user-attachments/assets/8e724577-f725-4a10-888e-5dd68ce6bba5)
 
