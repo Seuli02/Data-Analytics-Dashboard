@@ -4,22 +4,22 @@ Developed an interactive HR Analytics Dashboard using Power BI to analyze and vi
 ## Dataset used
 <a href="https://github.com/Seuli02/Data-Analytics-Dashboard/blob/main/HR_Analytics.csv">Dataset</a>
 ## Questions (KPIs)
-•	What is the overall attrition rate in the organization?
-•	Which age group has the highest attrition?
-•	Which job role has the most employee attrition?
-•	How does education background impact attrition?
-•	Which salary slab sees the highest number of resignations?
-•	Are males or females leaving the company more often?
-•	How does attrition vary with years of service in the company?
-•	What is the average age and tenure of employees?
-•	Which department has the highest attrition rate?
+•	What is the overall attrition rate in the organization?</br>
+•	Which age group has the highest attrition?</br>
+•	Which job role has the most employee attrition?</br>
+•	How does education background impact attrition?</br>
+•	Which salary slab sees the highest number of resignations?</br>
+•	Are males or females leaving the company more often?</br>
+•	How does attrition vary with years of service in the company?</br>
+•	What is the average age and tenure of employees?</br>
+•	Which department has the highest attrition rate?</br>
 •	How does the attrition trend compare across different salary brackets?
 ## Project measures or insights
 •	Total Employees: 446</br>
-•	Total Attrition Count: 92
-•	Attrition Rate: 20.6%
-•	Average Age: 37
-•	Average Salary: ₹7.0K
+•	Total Attrition Count: 92</br>
+•	Attrition Rate: 20.6%</br>
+•	Average Age: 37</br>
+•	Average Salary: ₹7.0K</br>
 •	Average Years at Company: 7.3
 
 
