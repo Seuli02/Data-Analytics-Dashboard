@@ -16,18 +16,21 @@ Developed an interactive HR Analytics Dashboard using Power BI to analyze and vi
 •	What is the average age and tenure of employees?</br>
 •	Which department has the highest attrition rate?</br>
 •	How does the attrition trend compare across different salary brackets?
-## Project measures or insights
-•	Total Employees: 446</br>
-•	Total Attrition Count: 92</br>
-•	Attrition Rate: 20.6%</br>
-•	Average Age: 37</br>
-•	Average Salary: ₹7.0K</br>
-•	Average Years at Company: 7.3
+
 # Key insights include:
 •	Age groups and job roles most impacted by attrition
 •	Correlation between education level and employee retention
 •	Salary slabs with the highest resignation rates
 •	Gender-wise attrition comparison
+
+# Project measures Visual Insights:
+•	Attrition by Age: Most attrition is in the 26–35 age group, which suggests mid-career employees are more likely to leave.</br>
+•	Attrition by Salary: Employees with a salary below 5K have the highest attrition. This may indicate dissatisfaction with compensation.</br>
+•	Attrition by Education: Medical and Life Sciences backgrounds show higher attrition, possibly due to better opportunities elsewhere.</br>
+•	Attrition by Gender: More male employees have left the company compared to female employees.</br>
+•	Attrition by Job Role: Laboratory Technicians and Sales Executives are the most affected roles. This insight can help HR focus on retention strategies for these positions.</br>
+•	Attrition by Years at Company: The highest attrition is seen in employees with 2-3 years of experience, possibly due to lack of career growth.</br>
+
 
 
 # Dashboard: ![Screenshot 2025-04-11 215454](https://github.com/user-attachments/assets/49d9e4fa-3f6b-4b1d-a0f7-a0fcfdcb8520)
